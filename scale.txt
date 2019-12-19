@@ -1,0 +1,16 @@
+# major.scales
+C Major
+G Major
+D Major
+A Major
+E Major
+B Major
+F# Major
+F Major
+Bb Major
+Eb Major
+Ab Major
+Db Major
+Gb Major
+C# Major
+Cb Major

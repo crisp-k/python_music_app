@@ -1,0 +1,47 @@
+# practice.txt
+1st String
+2nd String
+3rd String
+4th String
+5th String
+6th String
+1st and 2nd Strings
+2nd and 3rd Strings
+3rd and 4th Strings
+4th and 5th Strings
+5th and 6th Strings
+1st, 2nd, and 3rd Strings
+2nd, 3rd, and 4th Strings
+3rd, 4th, and 5th Strings
+4th, 5th, and 6th Strings
+1st Position
+2nd Position
+3rd Position
+4th Position
+5th Position
+6th Position
+7th Position
+8th Position
+9th Position
+10th Position
+11th Position
+12th Position
+13th Position
+14th Position
+15th Position
+16th Position
+17th Position
+18th Position
+19th Position
+2nds
+3rds
+4ths
+5ths
+6ths
+7ths
+8ves
+9ths
+10ths
+11ths
+12ths
+13ths

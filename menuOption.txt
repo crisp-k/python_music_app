@@ -1,0 +1,6 @@
+# menuOption.txt
+============================
+1. Random Scale
+2. Random Notes From Scale
+3. Random Chords From Scale
+============================
